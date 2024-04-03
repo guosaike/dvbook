@@ -40,51 +40,51 @@
 
 ### 运行截图
 
-![1、首页照片](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\1、首页照片.jpg)
+![1、首页照片](1、首页照片.jpg)
 
-![2、首页照片2](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\2、首页照片2.jpg)
+![2、首页照片2](2、首页照片2.jpg)
 
-![3、详情页收藏](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\3、详情页收藏.jpg)
+![3、详情页收藏](3、详情页收藏.jpg)
 
-![4、详情页评论](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\4、详情页评论.jpg)
+![4、详情页评论](4、详情页评论.jpg)
 
-![5、登录](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\5、登录.jpg)
+![5、登录](5、登录.jpg)
 
-![6、留言审核](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\6、留言审核.jpg)
+![6、留言审核](6、留言审核.jpg)
 
-![7、地址](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\7、地址.jpg)
+![7、地址](7、地址.jpg)
 
-![8、确认](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\8、确认.jpg)
+![8、确认](8、确认.jpg)
 
-![9、我的订单](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\9、我的订单.jpg)
+![9、我的订单](9、我的订单.jpg)
 
-![10、我的收藏](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\10、我的收藏.jpg)
+![10、我的收藏](10、我的收藏.jpg)
 
-![11、我的评论](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\11、我的评论.jpg)
+![11、我的评论](11、我的评论.jpg)
 
-![12、我的地址](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\12、我的地址.jpg)
+![12、我的地址](12、我的地址.jpg)
 
-![13、资料管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\13、资料管理.jpg)
+![13、资料管理](13、资料管理.jpg)
 
-![14、后台首页](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\14、后台首页.jpg)
+![14、后台首页](14、后台首页.jpg)
 
-![15、轮播图管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\15、轮播图管理.jpg)
+![15、轮播图管理](15、轮播图管理.jpg)
 
-![16、用户管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\16、用户管理.jpg)
+![16、用户管理](16、用户管理.jpg)
 
-![17、分类管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\17、分类管理.jpg)
+![17、分类管理](17、分类管理.jpg)
 
-![18、地区管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\18、地区管理.jpg)
+![18、地区管理](18、地区管理.jpg)
 
-![19、图书管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\19、图书管理.jpg)
+![19、图书管理](19、图书管理.jpg)
 
-![20、地址管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\20、地址管理.jpg)
+![20、地址管理](20、地址管理.jpg)
 
-![21、订单管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\21、订单管理.jpg)
+![21、订单管理](21、订单管理.jpg)
 
-![22、评论管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\22、评论管理.jpg)
+![22、评论管理](22、评论管理.jpg)
 
-![23、收藏管理](C:\Users\user\Desktop\django vue开源课程\13、django+vue协同过滤图书推荐系统\github\23、收藏管理.jpg)
+![23、收藏管理](23、收藏管理.jpg)
 
 
 
